@@ -12,7 +12,8 @@ _Download the repository contents onto your machine. use dotnet build to make th
 
 ## Known Bugs
 
-_None at this time_
+_[Route("/Results")] in HomeController.cs:_
+* Can't get results from the form
 
 ## Support and contact details
 
