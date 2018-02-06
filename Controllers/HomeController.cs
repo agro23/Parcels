@@ -21,10 +21,10 @@ namespace Parcels.Controllers
 
         [Route("/Results")]
         // public ActionResult Results()
-        public string myResults()
+        public ActionResult myResults()
         {
           // return View("Results.cshtml");
-          return View("Hi There!");
+          return View("Results");
         }
     }
 }
