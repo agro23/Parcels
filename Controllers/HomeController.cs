@@ -21,10 +21,27 @@ namespace Parcels.Controllers
 
         [Route("/Results")]
         // public ActionResult Results()
-        public ActionResult myResults()
+        public ActionResult Results()
         {
           // return View("Results.cshtml");
-          return View("Results");
+          Parcel myParcel = new Parcel();
+          myParcel.SetWeight(Request.Query["weight"]);
+          myParcel.SetHeight(Request.Query["height"]);
+          myParcel.SetLength(Request.Query["length"]);
+          myParcel.SetWidth(Request.Query["width"]);
+
+          return View("Results", myParcel);
+          //
+          // return View("Results");
         }
+
+        // [Route("/greeting_card")]
+        // public ActionResult GreetingCard()
+        // {
+        //     LetterVariable myLetterVariable = new LetterVariable();
+        //     myLetterVariable.SetRecipient(Request.Query["recipient"]);
+        //     myLetterVariable.SetSender(Request.Query["sender"]);
+        //     return View("Hello", myLetterVariable);
+        // }
     }
 }

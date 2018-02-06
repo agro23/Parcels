@@ -6,3 +6,13 @@
 /Users/Guest/Desktop/parcels/bin/Debug/netcoreapp1.1/parcels.pdb
 /Users/Guest/Desktop/parcels/obj/Debug/netcoreapp1.1/parcels.dll
 /Users/Guest/Desktop/parcels/obj/Debug/netcoreapp1.1/parcels.pdb
+c:\Programming\epicodus\Parcels\bin\Debug\netcoreapp1.1\parcels.deps.json
+c:\Programming\epicodus\Parcels\bin\Debug\netcoreapp1.1\parcels.runtimeconfig.json
+c:\Programming\epicodus\Parcels\bin\Debug\netcoreapp1.1\parcels.runtimeconfig.dev.json
+c:\Programming\epicodus\Parcels\bin\Debug\netcoreapp1.1\parcels.dll
+c:\Programming\epicodus\Parcels\bin\Debug\netcoreapp1.1\parcels.pdb
+c:\Programming\epicodus\Parcels\obj\Debug\netcoreapp1.1\parcels.csproj.CoreCompileInputs.cache
+c:\Programming\epicodus\Parcels\obj\Debug\netcoreapp1.1\parcels.AssemblyInfoInputs.cache
+c:\Programming\epicodus\Parcels\obj\Debug\netcoreapp1.1\parcels.AssemblyInfo.cs
+c:\Programming\epicodus\Parcels\obj\Debug\netcoreapp1.1\parcels.dll
+c:\Programming\epicodus\Parcels\obj\Debug\netcoreapp1.1\parcels.pdb
